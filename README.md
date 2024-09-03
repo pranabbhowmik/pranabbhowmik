@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend, Node.js,Express.js**
 - 
--  👨‍💻 All of my projects are available at (pranabportfolio.com)
+-  👨‍💻 All of my projects are available at [pranabportfolio.com](pranabportfolio.com)
 
 - 💬 Ask me about **Java-script,React,Tailwind css**
 
