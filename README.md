@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on **A e rickshaw booking Web app**
 
 - 🌱 I’m currently learning **Backend, Node.js,Express.js**
-- 
--  👨‍💻 All of my projects are available at [pranabportfolio.com](pranabportfolio.com)
+
+- 👨‍💻 All of my projects are available at [pranab.com](https://spotify-tukai.netlify.app/)
 
 - 💬 Ask me about **Java-script,React,Tailwind css**
 
@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/pranab bhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranab bhowmik" height="30" width="40" /></a>
 <a href="https://fb.com/প্রনব ভৌমিক" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="প্রনব ভৌমিক" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pranab17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranab17" height="30" width="40" /></a>
-<a href="[https://www.hackerrank.com/cse_tukai](https://www.hackerrank.com/profile/cse_tukai)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cse_tukai" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/cse_tukai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cse_tukai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranabbhowmik&show_icons=true&locale=en&layout=compact" alt="pranabbhowmik" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranabbhowmik&show_icons=true&locale=en" alt="pranabbhowmik" /></p>
