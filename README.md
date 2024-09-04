@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mern-Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **A e rickshaw booking Web app**
+- 🔭 I’m currently working on **A e rickshaw booking Web app, A Real time Chat Application, Book Library Application**
 
 - 🌱 I’m currently learning **Backend, Node.js,Express.js**
 
