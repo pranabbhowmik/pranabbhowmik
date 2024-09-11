@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Backend, Node.js,Express.js**
 
-- 👨‍💻 All of my projects are available at [pranab.com](https://spotify-tukai.netlify.app/)
+- 👨‍💻 All of my projects are available at [pranab.com](https://pranabbhowmik.netlify.app/)
 
 - 💬 Ask me about **Java-script,React,Tailwind css**
 
